@@ -37,30 +37,30 @@
 | ------------------------------- | ------------------------- | ------------------------- |
 | **Productividad real**          | [Tras semanas de uso]     | [Tras semanas de uso]     |
 | **Facilidad para desarrollo**   | [Experiencia práctica]    | [Experiencia práctica]    |
-| **Herramientas más utilizadas** | [Lo que realmente se usa] | [Lo que realmente se usa] |
+| **Herramientas más utilizadas** | Live Server               | IntelliCode               |
 | **Valoración final**            | [Evaluación final]        | [Evaluación final]        |
 
 ### Evolución de la Preferencia
 
-**¿Cambió la preferencia inicial?** [Sí/No]
+**¿Cambió la preferencia inicial?** No
 
-**IDE preferido final:** [Visual Studio Code / Visual Studio]
+**IDE preferido final:** Visual Studio Code 
 
 **Justificación del cambio o mantenimiento:**
-[Explicar cómo la experiencia práctica influyó en la decisión final]
+Nos permite ejecutar programas de C# de forma rapida, sin hacer tantas configuraciones. Y porque su interfaz es ligera y sencilla que nos permite personalizar el entorno con facilidad.
 
 ### Principales Aprendizajes
 
 **Lo que no se esperaba al principio:**
 
-- [Descubrimiento 1]
-- [Descubrimiento 2]
+- Se pueden gestionar cosas en la nube.
+- Administar base de datos.
 
 **Características más valiosas en la práctica:**
-[Herramientas o funcionalidades que resultaron esenciales en el uso diario]
+La utilización de la paleta de comandos para poder ejecutar culquier accion sin tener que quitar las manos del teclado.
 
 **Características menos útiles de lo esperado:**
-[Funcionalidades que parecían importantes pero no se utilizaron frecuentemente]
+Las extensiones de visualizacion como temas ultra personalizados.
 
 ---
 
@@ -69,31 +69,32 @@
 ### Aspectos Más Destacados
 
 **De Visual Studio Code:**
-[Lo que más destacó o resultó útil]
+Su Interfaz y la sencillez de realizar algunos proyectos es más visible que visual studio. 
 
 **De Visual Studio:**
-[Lo que más destacó o resultó útil]
+Que tiene más heramientas que visual studio code tambien en sencillo pero hay algunas cosas que nos son tan fácil de crear o hacer.
 
 ### Dificultades Encontradas
 
 **Problemas durante instalación/configuración:**
-[Describir problemas significativos y sus soluciones]
+Ninguna pero si es verdad que visual studio tardo más en instalarse que Visual Studio Code.
 
 **Curva de aprendizaje:**
-[Aspectos que requirieron más tiempo para dominar]
+Al entrar solo nos muestra un editor de texto vacio.
+Su rendimiento es rápido al iniciar y ligero.
 
 ### Conocimientos Adquiridos
 
 **Principales aprendizajes técnicos:**
 
-1. [Aprendizaje técnico 1]
-2. [Aprendizaje técnico 2]
-3. [Aprendizaje técnico 3]
+1. La Navegación y las estrucuturas
+2. La Edición de Código
+3. Y la Personalización del Entorno
 
 **Habilidades desarrolladas:**
 
-- [Habilidad práctica 1]
-- [Habilidad práctica 2]
+- Atajos en el teclado 
+- Y la terminal integrada
 
 ---
 
@@ -101,36 +102,36 @@
 
 ### Recomendación Principal
 
-**Para desarrollo en C#, se recomienda:** [Visual Studio Code / Visual Studio]
+**Para desarrollo en C#, se recomienda:**  Visual Studio
 
 **Justificación basada en experiencia:**
-[Explicación fundamentada en el uso real de ambas herramientas]
+Porque es más completos para proyectos grandes y complejos y porque tiene más herrramientas integradas que Visual Studio Code
 
 ### Configuraciones Esenciales
 
 **Configuraciones indispensables para productividad:**
 
-1. [Configuración crítica 1]
-2. [Configuración crítica 2]
-3. [Configuración crítica 3]
+1. La Paleta de comandos 
+2. Extensiones Claves
+3. Optimización (habilitar y dashabilita)
 
 **Extensiones que no pueden faltar:**
 
-- [Extensión esencial 1]
-- [Extensión esencial 2]
+- Extensión .Net
+- Extensión Live Server
 
 ### Para Futuros Desarrolladores
 
 **Consejos para alguien que inicia con C#:**
 
-- [Consejo práctico 1]
-- [Consejo práctico 2]
-- [Consejo práctico 3]
+- Entender muy bien los fundamentos 
+- Prácticar mucho por los menos 30 minutos al día
+- Configurar bien el entorno donde va a trbajar
 
 **Errores a evitar:**
 
-- [Error común 1 y cómo evitarlo]
-- [Error común 2 y cómo evitarlo]
+- No olvidarse de los puntos y comas 
+- Ultilizar bien el manejo de nulos 
 
 ---
 
@@ -138,15 +139,15 @@
 
 ### Organización del Trabajo
 
-[Describir brevemente cómo se dividieron las tareas entre los integrantes]
+El principio de la tarea lo hicmos juentos y la ultima parte cada uno hacia una parte tanto de la aliniación de imagenes o las capturas.
 
 ### Beneficios de la Colaboración
 
-[Ventajas identificadas al trabajar en equipo en este proyecto]
+Es más rápido en algunos aspectos tambien porque hay diferentes opiniones de que poner y depues haces una idea mejor de lo que puede ir mejor en el trabajo.
 
 ### Mejoras para Futuros Proyectos
 
-[Sugerencias para optimizar la colaboración en proyectos similares]
+Ningúna 
 
 ---
 
@@ -157,12 +158,12 @@
 **Principal beneficio de evaluar antes y después del uso:**
 [En 2-3 líneas: valor de contrastar impresiones iniciales con experiencia real]
 
-**¿Se recomienda esta metodología de evaluación?** [Sí/No]
-**¿Por qué?** [Justificación del enfoque progresivo]
+**¿Se recomienda esta metodología de evaluación?** Sí
+**¿Por qué?** Si porque es como una base de estudios que te ayuda a progresar más adelante sobre lo que puedas tener dudas.
 
 ### Reflexión Personal
 
 **Lo más valioso del ejercicio:**
-[Principal aprendizaje o insight obtenido del proceso completo]
+Esto me sirvio por ejemplo para instalarlo en mi casa y tener un pequeño manual para guiarme por si ocurre algíun fallo. 
 
 ---
